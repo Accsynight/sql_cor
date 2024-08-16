@@ -1,22 +1,22 @@
 # 1. 收集错误样本
 
-- 使用 sql_gen.ipynb 统计错误的样本数量
+-使用sql_gen.ipynb统计错误的样本数量
 
   - Spider_all
   
-    | models | res_list | EX |
+    | 模型 | res_list | EX |
     |---|---|---|
     |llama3-8b| | |
     |llama3-70b| | |
     |qwen2-7b| | |
     |qwen2-72B| | |
-    |gpt-4o-mini| | |
+    |GPT-4O-迷你| | |
 
   - Bird_all
-    | models | res_list | EX |
+    | 模型 | res_list | EX |
     |---|---|---|
     |llama3-8b| | |
     |llama3-70b| | |
     |qwen2-7b| | |
     |qwen2-72B| | |
-    |gpt-4o-mini| | |
+    |GPT-4O-迷你| | |
